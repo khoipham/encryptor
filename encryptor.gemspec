@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'encryptor/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = 'encryptor'
+  gem.name          = 'the_encryptor'
   gem.version       = Encryptor::VERSION
   gem.authors       = ['David Pham']
   gem.email         = ['hello@khoi.co']
