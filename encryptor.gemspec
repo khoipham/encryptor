@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ['David Pham']
   gem.email         = ['hello@khoi.co']
   gem.summary       = %q{Declaratively encrypt sensitive data}
-  gem.description   = %q{Encrypt sensitive data on your ActiveRecord models or plain ol' Ruby objects}
+  gem.description   = %q{Encrypt sensitive data on your ActiveRecord models or plain ol' Ruby objects.}
   gem.homepage      = 'http://khoi.co'
 
   gem.files         = `git ls-files`.split($/)
